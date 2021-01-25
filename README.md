@@ -15,9 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/[presence1337" />
-</p>
-
-<p align="center">
     Da bag is all i need
 </p>
