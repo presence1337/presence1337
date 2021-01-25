@@ -1,3 +1,6 @@
+<p align="center">
+    presence#1359 +🌴 
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69834750/105657474-69d26680-5eff-11eb-8e16-59915c91249c.gif" />
@@ -9,4 +12,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=presence1337&show_icons=true&theme=midnight-purple" />
+</p>
+
+<p align="center">
+    Da bag is all i need
 </p>
