@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-    Da bag is all i need
+    chasing money is all i do 💰
 </p>
