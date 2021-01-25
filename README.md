@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=presence1337&show_icons=true&theme=midnight-purple" />
 </p>
 
+![](https://komarev.com/ghpvc/?presence1337)
+
 <p align="center">
     Da bag is all i need
 </p>
