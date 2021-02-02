@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presence1337&layout=compact)](https://github.com/presence1337/github-readme-stats" />
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=presence1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 <p align="center">
