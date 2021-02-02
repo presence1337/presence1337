@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presence1337&layout=compact]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presence1337&layout=compact" />
 </p>
 
 <p align="center">
@@ -16,4 +16,3 @@
 
 <p align="center">
     chasing money is all i do 💰
-</p>
