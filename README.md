@@ -15,4 +15,4 @@
 </p>
 
 <p align="center">
-    swipin cards
+    swipin cards 💳
