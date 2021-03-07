@@ -15,4 +15,4 @@
 </p>
 
 <p align="center">
-    chasing money is all i do 💰
+    swipin cards
